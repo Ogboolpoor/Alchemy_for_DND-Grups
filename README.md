@@ -1,7 +1,7 @@
 # Alchemy_for_DND-Grups
 Website with custom hombrew alchemy rules for ttrpg like Gurps or DND
 # Screenshots
-Main page
+Main page that releases bubbles on hover over "start brewing" button
 <img width="1919" height="1079" alt="Screenshot 2026-05-30 085023" src="https://github.com/user-attachments/assets/0adc8c3b-7cec-437c-bfad-a8787715767c" />
 #Brewing page
 Ingredients table
